@@ -1,2 +1,2 @@
-# G-Deepakkumar
+# Tic-Tack-Toe
 "Python implementation of Tic Tac Toe game featuring an AI opponent using the Minimax algorithm for optimal play."
